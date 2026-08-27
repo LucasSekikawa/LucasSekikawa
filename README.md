@@ -1,5 +1,9 @@
-# Some infos about me:
-<br><br>- Computer science student at Universidade Federal do Paraná (UFPR)<br>- Developer intern<br>- Love music and movies<br>- Interest in data, back-end, ia<br>
+### Some infos about me:
+
+* Computer science student at Universidade Federal do Paraná (UFPR)
+* Developer intern
+* Love music and movies
+* Interest in data, back-end, ia
 
 
 # 📊 GitHub Stats:
