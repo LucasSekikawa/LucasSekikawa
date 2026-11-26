@@ -3,7 +3,7 @@
 * Computer science student at Universidade Federal do Paraná (UFPR)
 * Developer intern
 * Love music and movies
-* Interest in data, back-end, ia
+* Interest in data, back-end, ai
 
 <div align="center">
 
